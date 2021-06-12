@@ -28,7 +28,7 @@ const TopBar = () => {
             <Toolbar>
             <ViewQuiltIcon fontSize="large" />
             <Typography variant="h3" className={classes.title}>
-                Drag & Drop Form
+                React Dynamic Form - Draggable
             </Typography>
 
             <Typography variant="h6" style={{color:"white", textDecoration:"none"}} >
@@ -36,7 +36,7 @@ const TopBar = () => {
             </Typography>
 
             <Link 
-                href="https://github.com/arifshariati/zoom-clone-react-webRTC-socket-io-peers" 
+                href="https://github.com/arifshariati/react-dynamic-form-drag-drop-redux" 
                 className={classes.githubButton}
                 target="_blank"
             >
